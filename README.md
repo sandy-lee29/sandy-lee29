@@ -26,6 +26,5 @@ Developed a predictive model for heart attack risk assessment using the [Synthet
 Replicated and extended the Difference-in-Differences (DiD) analysis from the 2024 study [“Post-January 6th deplatforming reduced the reach of misinformation on Twitter”](https://www.nature.com/articles/s41586-024-07524-8), published in Nature. <br>
   👉 [View Project](https://github.com/sandy-lee29/Twitter_DiD_Analysis_Project) <br>
   👉 [View Medium Post](https://medium.com/@sangmin.lee.ir/evaluating-the-effectiveness-of-twitters-deplatforming-as-a-content-moderation-strategy-1066dea05a46) <br>
--  Used the original dataset to assess how Twitter’s deplatforming intervention affected misinformation spread.
+-  Used Difference-in-Differences analysis to measure the impact of Twitter’s deplatforming on misinformation spread, analyzing user engagement trends and migration patterns.
 -  Evaluated key assumptions behind the study and examined the broader implications of content moderation strategies on online discourse.
-
