@@ -8,7 +8,7 @@
 ## Data Science Projects 
 
 ### 1. 🚗 Predicting Coupon Acceptance in Mobility Services <br>
-Built a machine learning model to predict coupon acceptance using the In-Vehicle Coupon Recommendation dataset. <br>
+Built a machine learning model to predict coupon acceptance using the [In-Vehicle Coupon Recommendation dataset](https://www.kaggle.com/datasets/mathurinache/invehicle-coupon-recommendation). <br>
   👉 [View Project](https://github.com/sandy-lee29/predicting-coupon-acceptance) <br>
   👉 [View Medium Post](https://medium.com/@sangmin.lee.ir/driving-sales-with-machine-learning-predicting-coupon-acceptance-in-the-automotive-industry-2491d04db677) <br>
 - Preprocessed data by handling missing values, encoding categorical variables, and reducing multicollinearity.
