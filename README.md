@@ -8,7 +8,7 @@
 ## Data Science Projects 
 
 ### 1. 🚗 Predicting Coupon Acceptance in Mobility Services <br>
-Built a machine learning model to predict coupon acceptance using the [In-Vehicle Coupon Recommendation dataset](https://www.kaggle.com/datasets/mathurinache/invehicle-coupon-recommendation). <br>
+Built a machine learning model to predict coupon acceptance using the [In-Vehicle Coupon Recommendation Dataset](https://www.kaggle.com/datasets/mathurinache/invehicle-coupon-recommendation). <br>
   👉 [View Project](https://github.com/sandy-lee29/predicting-coupon-acceptance) <br>
   👉 [View Medium Post](https://medium.com/@sangmin.lee.ir/driving-sales-with-machine-learning-predicting-coupon-acceptance-in-the-automotive-industry-2491d04db677) <br>
 - Preprocessed data by handling missing values, encoding categorical variables, and reducing multicollinearity.
@@ -16,7 +16,7 @@ Built a machine learning model to predict coupon acceptance using the [In-Vehicl
 - Analyzed feature importance to derive business insights, such as optimizing coupon types, location-based offers, and expiration durations.
 
 ### 2. ❤️‍🩹 Predicting Heart Attack Risk <br>
-Developed a predictive model for heart attack risk assessment using the [Synthetic Heart Attack Dataset from Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset?resource=download). <br> 
+Developed a predictive model for heart attack risk assessment using the [Synthetic Heart Attack Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset?resource=download). <br> 
   👉 [View Project](https://github.com/sandy-lee29/heart_attack_prediction) <br>
 - Performed data cleaning and feature engineering, including splitting blood pressure into systolic/diastolic values and encoding categorical variables.
 - Trained and optimized a Decision Tree Classifier using GridSearchCV for hyperparameter tuning.
