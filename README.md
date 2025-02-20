@@ -7,23 +7,25 @@
 
 ## Data Science Projects 
 
-**1. 🚗 Predicting Coupon Acceptance with Machine Learning**
-Built a machine learning model to predict coupon acceptance using the In-Vehicle Coupon Recommendation dataset.
-  👉 [View Project](your-project-link-here)  
+### 1. 🚗 Predicting Coupon Acceptance with Machine Learning <br>
+Built a machine learning model to predict coupon acceptance using the In-Vehicle Coupon Recommendation dataset. <br>
+  👉 [View Project](your-project-link-here) <br>
+  👉 [View Medium Post](https://medium.com/@sangmin.lee.ir/driving-sales-with-machine-learning-predicting-coupon-acceptance-in-the-automotive-industry-2491d04db677) <br>
 - Preprocessed data by handling missing values, encoding categorical variables, and reducing multicollinearity.
 - Conducted model comparison and selected CatBoost Classifier for its high Recall (0.836) and ROC AUC (0.834).
 - Analyzed feature importance to derive business insights, such as optimizing coupon types, location-based offers, and expiration durations.
 
-**2. ❤️‍🩹 Heart Attack Risk Prediction**
-Developed a predictive model for heart attack risk assessment.
-  👉 [View Project](your-project-link-here)  
+### 2. ❤️‍🩹 Heart Attack Risk Prediction <br>
+Developed a predictive model for heart attack risk assessment. <br> 
+  👉 [View Project](your-project-link-here) <br>
 - Performed data cleaning and feature engineering, including splitting blood pressure into systolic/diastolic values and encoding categorical variables.
 - Trained and optimized a Decision Tree Classifier using GridSearchCV for hyperparameter tuning.
 - Identified key risk factors through feature importance analysis and provided insights into preventive healthcare strategies and model limitations.
 
-**3. 📱 Analyzing the Impact of Social Media Deplatforming on Misinformation Spread**
-Replicated and extended the Difference-in-Differences (DiD) analysis from the 2024 study "Post-January 6th deplatforming reduced the reach of misinformation on Twitter".
-  👉 [View Project](your-project-link-here)  
+### 3. 📱 Analyzing the Impact of Social Media Deplatforming on Misinformation Spread <br>
+Replicated and extended the Difference-in-Differences (DiD) analysis from the 2024 study "Post-January 6th deplatforming reduced the reach of misinformation on Twitter". <br>
+  👉 [View Project](your-project-link-here) <br>
+  👉 [View Medium Post](https://medium.com/@sangmin.lee.ir/evaluating-the-effectiveness-of-twitters-deplatforming-as-a-content-moderation-strategy-1066dea05a46) <br>
 -  Used the original dataset to assess how Twitter’s deplatforming intervention affected misinformation spread.
 -  Evaluated key assumptions behind the study and examined the broader implications of content moderation strategies on online discourse.
 
