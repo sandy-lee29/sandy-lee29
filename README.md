@@ -16,7 +16,7 @@ Built a machine learning model to predict coupon acceptance using the [In-Vehicl
 - Analyzed feature importance to derive business insights, such as optimizing coupon types, location-based offers, and expiration durations.
 
 ### 2. ❤️‍🩹 Predicting Heart Attack Risk <br>
-Developed a predictive model for heart attack risk assessment. <br> 
+Developed a predictive model for heart attack risk assessment using the [Synthetic Heart Attack Dataset from Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset?resource=download). <br> 
   👉 [View Project](https://github.com/sandy-lee29/heart_attack_prediction) <br>
 - Performed data cleaning and feature engineering, including splitting blood pressure into systolic/diastolic values and encoding categorical variables.
 - Trained and optimized a Decision Tree Classifier using GridSearchCV for hyperparameter tuning.
