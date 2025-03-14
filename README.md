@@ -1,7 +1,7 @@
 ## Hi there I'm Sangmin (or Sandy) 👋 
 
-📚 I love solving problems with data! With a strong foundation in SQL, Python, R, and machine learning, I leverage advanced analytics to drive data-driven decisions. <br>
-🌱 With a background in Data Analytics and Social Science from UC Berkeley, I have experience analyzing large datasets and developing predictive models to generate actionable business insights.  <br>
+📚 I love solving business problems with data! With expertise in SQL, Python, R, and machine learning, I leverage advanced analytics to drive data-driven decisions. <br>
+🎓 With a background in Data Analytics and Social Science from UC Berkeley, I have experience analyzing large datasets and developing predictive models to generate actionable business insights.  <br>
 🔗 Here you can check out my portfolio of data science projects. I also write about the same topic in my [Medium](https://medium.com/@sangmin.lee.ir) blog posts.  
 📫 I’m always open to discussing projects and opportunities. Feel free to reach out at sandylee@berkeley.edu 
 
@@ -10,6 +10,7 @@
 ### 🎵 App Review Analysis System for Music Streaming Apps
 Developed an AI-powered App Review Analysis System using prompt engineering to automate sentiment analysis, issue tagging, and topic categorization for 10,000 reviews from the top five music apps. <br>
   👉 [View Project](https://github.com/sandy-lee29/musicapp-review-analysis) <br>
+  👉 [View Streamlit Dashboard](https://music-app-review-dashboard.streamlit.app/) <br>
 - Automated sentiment analysis to classify reviews as Positive, Neutral, or Negative using OpenAI’s GPT model.
 - Automatically extracted key user concerns and feature requests through AI-driven issue detection, providing actionable insights for product teams.
 - Standardized topics using NLP-based similarity matching, aligning issues into industry-specific categories.
