@@ -16,8 +16,8 @@ Developed an AI-powered App Review Analysis System using prompt engineering to a
 - Standardized topics using NLP-based similarity matching, aligning issues into industry-specific categories.
 - Built an interactive Streamlit dashboard to visualize user feedback trends, enabling data-driven product improvements.
 
-### 🚗 Predicting Coupon Acceptance in Mobility Services <br>
-Built a machine learning model to predict coupon acceptance using the [In-Vehicle Coupon Recommendation Dataset](https://www.kaggle.com/datasets/mathurinache/invehicle-coupon-recommendation). <br>
+### 🚗 Predicting In-Vehicle Coupon Acceptance <br>
+Built a machine learning model to predict in-vehicle coupon acceptance using the [In-Vehicle Coupon Recommendation Dataset](https://www.kaggle.com/datasets/mathurinache/invehicle-coupon-recommendation). <br>
   👉 [View Project](https://github.com/sandy-lee29/predicting-coupon-acceptance) <br>
   👉 [View Medium Post](https://medium.com/@sangmin.lee.ir/driving-sales-with-machine-learning-predicting-coupon-acceptance-in-the-automotive-industry-2491d04db677) <br>
 - Preprocessed data by handling missing values, encoding categorical variables, and reducing multicollinearity.
