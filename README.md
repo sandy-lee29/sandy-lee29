@@ -7,14 +7,26 @@
 
 ## Data Science Projects 
 
-### 🎵 App Review Analysis System for Music Streaming Apps
-Developed an AI-powered App Review Analysis System using prompt engineering to automate sentiment analysis, issue tagging, and topic categorization for 10,000 reviews from the top five music apps. <br>
-  👉 [View Project](https://github.com/sandy-lee29/musicapp-review-analysis) <br>
-  👉 [View Streamlit Dashboard](https://music-app-review-dashboard.streamlit.app/) <br>
-- Automated sentiment analysis to classify reviews as Positive, Neutral, or Negative using OpenAI’s GPT model.
-- Automatically extracted key user concerns and feature requests through AI-driven issue detection, providing actionable insights for product teams.
-- Standardized topics using NLP-based similarity matching, aligning issues into industry-specific categories.
-- Built an interactive Streamlit dashboard to visualize user feedback trends, enabling data-driven product improvements.
+### 🎵 App Review Analysis System
+#### 1. Data Pipeline
+Developed an end-to-end AI pipeline for extracting actionable insights from app revies. The system comprises three key components:
+- Review Scraper: Automated collection of reviews from Google Play and App Store
+- AI Tagging Engine: GPT-powered sentiment analysis, issue detection, and topic categorization
+- Hierarchical Analysis: Automated grouping of issues into main categories and sub-issues
+**Key Achievements:**
+- Processed 10,000+ reviews with AI-powered classification
+- Developed customizable framework applicable to any app category
+- Automated data processing pipeline for consistent analysis 
+  👉 [View Pipeline Project](https://github.com/sandy-lee29/musicapp-review-analysis) <br>
+#### 2. Intelligence Dashboard
+Built a comprehensive Streamlit dashboard that transforms processed reviews into actionable insights:
+**Key Features:**
+- Multi-page dashboard with interactive filtering
+- AI-powered issue analysis and impact assessment
+- Revenue risk scoring and priority ranking
+- Automated executive summaries and recommendations
+- Exportable reports in PDF and CSV formats
+  👉 [View Streamlit Dashboard](https://app-review-dashboard.streamlit.app/) <br>
 
 ### 🚗 Predicting In-Vehicle Coupon Acceptance <br>
 Built a machine learning model to predict in-vehicle coupon acceptance using the [In-Vehicle Coupon Recommendation Dataset](https://www.kaggle.com/datasets/mathurinache/invehicle-coupon-recommendation). <br>
