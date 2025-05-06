@@ -20,7 +20,8 @@ Developed an end-to-end AI pipeline for extracting actionable insights from app 
 - Automated data processing pipeline for consistent analysis 
   👉 [View Pipeline Project](https://github.com/sandy-lee29/musicapp-review-analysis) <br>
 #### 2. Intelligence Dashboard
-Built a comprehensive Streamlit dashboard that transforms processed reviews into actionable insights: <br>
+Built a comprehensive Streamlit dashboard that transforms processed reviews into actionable insights: 
+
 **Key Features:**
 - Multi-page dashboard with interactive filtering
 - AI-powered issue analysis and impact assessment
