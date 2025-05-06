@@ -12,14 +12,14 @@
 Developed an end-to-end AI pipeline for extracting actionable insights from app reviews. The system comprises three key components:
 - Review Scraper: Automated collection of reviews from Google Play and App Store
 - AI Tagging Engine: GPT-powered sentiment analysis, issue detection, and topic categorization
-- Hierarchical Analysis: Automated grouping of issues into main categories and sub-issues
+- Hierarchical Analysis: Automated grouping of issues into main categories and sub-issues <br>
 **Key Achievements:**
 - Processed 10,000+ reviews with AI-powered classification
 - Developed customizable framework applicable to any app category
 - Automated data processing pipeline for consistent analysis 
   👉 [View Pipeline Project](https://github.com/sandy-lee29/musicapp-review-analysis) <br>
 #### 2. Intelligence Dashboard
-Built a comprehensive Streamlit dashboard that transforms processed reviews into actionable insights:
+Built a comprehensive Streamlit dashboard that transforms processed reviews into actionable insights: <br>
 **Key Features:**
 - Multi-page dashboard with interactive filtering
 - AI-powered issue analysis and impact assessment
