@@ -9,7 +9,7 @@
 
 ### 🎵 App Review Analysis System
 #### 1. Data Pipeline
-Developed an end-to-end AI pipeline for extracting actionable insights from app revies. The system comprises three key components:
+Developed an end-to-end AI pipeline for extracting actionable insights from app reviews. The system comprises three key components:
 - Review Scraper: Automated collection of reviews from Google Play and App Store
 - AI Tagging Engine: GPT-powered sentiment analysis, issue detection, and topic categorization
 - Hierarchical Analysis: Automated grouping of issues into main categories and sub-issues
