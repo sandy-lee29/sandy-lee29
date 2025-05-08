@@ -8,10 +8,8 @@
 ## Data Science Projects 
 
 ### 🎵 App Review Analysis System
-Developed an end-to-end AI pipeline for extracting actionable insights from app reviews. The system comprises three key components: (1) Review Scraper (Automated collection of reviews from Google Play and App Store), (2) AI Tagging Engine (GPT-powered sentiment analysis, issue detection, and topic categorization), and (3) Hierarchical Analysis (Automated grouping of issues into main categories and sub-issues). 
-  👉 [View Pipeline Project](https://github.com/sandy-lee29/musicapp-review-analysis) <br>
-Built a comprehensive Streamlit dashboard that transforms processed reviews into actionable insights. This dashboard features: (1) AI-powered issue analysis and impact assessment, (2) Revenue risk scoring and priority ranking, (3) Automated executive summaries and recommendations, and (4) Exportable reports in PDF and CSV formats
-  👉 [View Streamlit Dashboard](https://app-review-dashboard.streamlit.app/) <br>
+Developed an end-to-end AI pipeline for extracting actionable insights from app reviews. The system comprises three key components: (1) Review Scraper (Automated collection of reviews from Google Play and App Store), (2) AI Tagging Engine (GPT-powered sentiment analysis, issue detection, and topic categorization), and (3) Hierarchical Analysis (Automated grouping of issues into main categories and sub-issues) 👉 [View Pipeline Project](https://github.com/sandy-lee29/musicapp-review-analysis) <br>
+Built a comprehensive Streamlit dashboard that transforms processed reviews into actionable insights. This dashboard features: (1) AI-powered issue analysis and impact assessment, (2) Revenue risk scoring and priority ranking, (3) Automated executive summaries and recommendations, and (4) Exportable reports in PDF and CSV formats 👉 [View Streamlit Dashboard](https://app-review-dashboard.streamlit.app/) <br>
 
 ### 🚗 Predicting In-Vehicle Coupon Acceptance <br>
 Built a machine learning model to predict in-vehicle coupon acceptance using the [In-Vehicle Coupon Recommendation Dataset](https://www.kaggle.com/datasets/mathurinache/invehicle-coupon-recommendation). <br>
